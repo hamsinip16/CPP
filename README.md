@@ -1,13 +1,13 @@
-#Contains Everything I've come across in C++
+# Contains Everything I've come across in C++
 
-__1. OOPS concepts__
+1. OOPS concepts
 
-__2. Data Structures__
+2. Data Structures
 
-__3. Threads__
+3. Threads
+   
+4. Design Patterns
 
-__4. Design Patterns__
+5. Logical Coding & Pattern Printing
 
-__5. Logical Coding & Pattern Printing__
-
-__6. LeetCode Solutions__
+6. LeetCode Solutions
