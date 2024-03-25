@@ -12,8 +12,8 @@ int multiplication(int a, int b) {
       if (b & 1) {  //if odd number
          result += a;   
          }
-      a = a << 1;  // multiplies by 2 
-      b = b >> 1;  // divides by 2 
+      a = a << 2;  // multiplies by 2 
+      b = b >> 2;  // divides by 2 
    }
    return result;
 }
