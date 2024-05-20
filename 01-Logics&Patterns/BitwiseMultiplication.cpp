@@ -12,8 +12,8 @@ int multiplication(int a, int b) {
       if (b & 1) {  //if odd number
          result += a;   
          }
-      a = a << 2;  // multiplies by 2 
-      b = b >> 2;  // divides by 2 
+      a = a << 1;  // multiplies by 1 
+      b = b >> 1; // divides by 1
    }
    return result;
 }
@@ -23,3 +23,10 @@ int main() {
    cout << "\nC: "<< multiplication(83, 66) << endl;
    return 0;
 }
+
+//--------O/P-------------
+//A: 675
+
+// B: 0
+
+// C: 5478
