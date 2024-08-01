@@ -26,19 +26,19 @@ It is the process of showing essential details to the user while hiding unnecess
 
 # INHERITANCE 
 This concept allows methods & functions to inherit attributes of another class. This creates class hierarchy - Derived(child) class gets Base(parent) class behaviour & attributes.
-__single__ 
+__SINGLE INHERITANCE__ 
 
-__multilevel__
+__MULTILEVEL INHERITANCE__
 
-__multiple__
+__MULTIPLE INHERITANCE__
 
-__hierarchical__
+__HIERARCHICAL INHERITANCE__
 
-__hybrid__ 
+__HYBRID INHERITANCE__ 
 
 __VIRTUAL INHERITANCE__
 
-__multipath__
+__MULTIPATH INHERITANCE__
 
 
 # POLYMORPHISM 
@@ -50,6 +50,8 @@ __FUNCTION OVERLOADING__
 __OPERATOR OVERLOADING__ 
 
 __FUNCTION OVERRIDING__
+
+__OPERATOR OVERRIDING__ 
 
 __VIRTUAL FUNCITONS__
 
