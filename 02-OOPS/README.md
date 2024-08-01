@@ -2,17 +2,16 @@
 
 coding logics to cover all concepts of C++
 
-# 1. CLASS & OBJECTS
->>__OBJECT__ is a smallest entity that has characteristics and behavior, and these objects hold variables of a class in accordance with the access specifiers. ​
-
+# CLASS & OBJECTS
+__OBJECT__ is a smallest entity that has characteristics and behavior, and these objects hold variables of a class in accordance with the access specifiers. ​
 OBJECT is an instance of a CLASS
->>__CLASS__ is a user defined data types that contains data members (variables) and member functions. ​
+__CLASS__ is a user defined data types that contains data members (variables) and member functions. ​
 
 
-# 2. ENCAPSULATION 
+# ENCAPSULATION 
 
 
-# 3. ABSTRACTION 
+# ABSTRACTION 
 
 
 4. CONSTRUCTORS & DESTRUCTORS
