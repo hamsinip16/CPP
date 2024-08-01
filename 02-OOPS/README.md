@@ -1,4 +1,5 @@
-# CodeWithC++
+# C++ Object Oriented Programming
+
 coding logics to cover all concepts of C++
 1. CLASS & OBJECTS
 2. ENCAPSULATION 
