@@ -34,16 +34,16 @@ __Advantages:__ efficiently utilizes memory, insertion & deletion is easy at any
 
 __Disadvantages:__ accessing elements is time consuming, more memory is required for big lists
 
-1. Singly Linked List
+Singly Linked List
    ---------------------
 
-2. Doubly Linked List
+Doubly Linked List
    ---------------------
 
-3. Circular Linked List
+Circular Linked List
    ---------------------
 
-4. Doubly Circular Linked List
+Doubly Circular Linked List
    ---------------------
 
 
@@ -51,42 +51,40 @@ __Disadvantages:__ accessing elements is time consuming, more memory is required
 # Tree
 Tree is a hierarchy consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”).
 
-1. Binary Tree
+Binary Tree
    ---------------------
-
-2. Binary Search Tree
+Binary Search Tree
    ----------
-
-3. AVL Tree
+AVL Tree
    --------
-   
-4. B Tree
+B Tree
    -----
 
 
 # Graph
 Graph is a data structure that is a combination of nodes and edges. Nodes/Vertex stores and entities while edges are connections between two nodes.
 
-1. Directed Graph 
+Directed Graph 
    --
 When all edges point from one node to another node.
 
-2. Undirected Graph
+Undirected Graph
    --
 When there is a simple line between two nodes as an edge.
 
-3. Weighted Graph
+Weighted Graph
    --
    A graph in which every edge has a weight (a value of the connection between two nodes connected by that edge)
 
-4. Cyclic Graph
+Cyclic Graph
    -
    In directed Graphs, if there is a possibility of creating a path such that while traveling you end up on an already traveled node
 
-5. Acyclic Graph
-    -
+Acyclic Graph
+--
 
-Graph Traversals
+  
+GRAPH TRAVERSALS
 --
 __1. BFS (Breadth First Search)__
        Breadth First search is a search algorithm used in tree data structures to search a node with a specific property. The algorithm starts with a root node and as moving deeper it records the data of the nodes, unlike the DFS algorithm which travels to the deepest node and then records the data of the nodes.
