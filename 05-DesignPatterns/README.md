@@ -1,7 +1,8 @@
 # Design-Patterns
 Design patterns are typical solutions to common problems in software design. They represent best practices, evolved over time, and are a toolkit for software developers to solve common problems efficiently.
 
-# Why are Design Patterns required?
+Why are Design Patterns required?
+--
 __1. Solving Recurring Problems:__ Design patterns offer solutions to problems that occurs repeatedly. these patterns can be used as blueprints for solving common design issues.
 
 __2. Facilitating Communication:__ Design patterns establishes a common set of terms that can be used to discuss design concepts for better understanding.
