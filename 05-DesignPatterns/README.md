@@ -57,6 +57,9 @@ To deal with object composition
 7.Proxy
 -
 
+8.PImpl Idiom
+-
+
 
 # Behavioral Patterns
 To handle communication between objects. 
@@ -94,6 +97,11 @@ To handle communication between objects.
 11.Visitor
 -
 
+12.Null Object
+-
+
+
+
 >>Best Design Patterns to use : __Strategy pattern, Composite pattern__ 
->>Both provide means to achieve flexibility and modularity in software design, demonstrating the power of using well-defined design patterns in software development.
+                                 Both provide means to achieve flexibility and modularity in software design, demonstrating the power of using well-defined design patterns in software development.
 
