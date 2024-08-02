@@ -2,9 +2,18 @@
 A data structure is a storage that is used to store and organize data. 
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 ----------------------------------------
-Linear Data Structures - Static [Arrays], Dynamic [Vector, Queue, Stack, Linked List]
-Non-Linear Data Structures - Tree [Binary, Binary Search, AVL, B], Graph [Directed, Undirected, Weighted, Cyclic, Acyclic]
-----------------------------------------
+__Linear Data Structures -__
+
+Static [Arrays]
+
+Dynamic [Vector, Queue, Stack, Linked List]
+
+__Non-Linear Data Structures -__
+
+Tree [Binary, Binary Search, AVL, B]
+
+Graph [Directed, Undirected, Weighted, Cyclic, Acyclic]
+
 
 # 1. Array [fixed memory size]
 
