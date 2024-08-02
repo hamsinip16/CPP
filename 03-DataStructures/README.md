@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fff15c0a-5643-47e4-87f9-99e69f6fc86a)  # Data-Structures
+# Data-Structures
 A data structure is a storage that is used to store and organize data. 
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 ----------------------------------------
