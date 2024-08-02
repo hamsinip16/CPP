@@ -8,6 +8,7 @@ Static [Arrays]
 
 Dynamic [Vector, Queue, Stack, Linked List]
 
+
 __Non-Linear Data Structures -__
 
 Tree [Binary, Binary Search, AVL, B]
@@ -33,7 +34,7 @@ Sequential data structure, data elements are linked to one another and can grown
 __Advantages:__ efficiently utilizes memory, insertion & deletion is easy at any position
 
 __Disadvantages:__ accessing elements is time consuming, more memory is required for big lists
-
+---------------------------------------
 1. Singly Linked List
 
 2. Doubly Linked List
@@ -100,4 +101,5 @@ __SEARCHING__
 
 # Links:
 https://medium.com/@vinay.vashist2003/graphs-data-structure-in-c-ab7b4205f41a
+
 https://tanwanirishita-24.medium.com/basic-of-trees-in-c-de0a1e5f3205
