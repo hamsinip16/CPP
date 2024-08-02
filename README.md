@@ -1,5 +1,5 @@
  # C++ Programming  
->> Contains Everything I've come across in C++
+ Contains Everything I've come across in C++
 
 1. OOPS concepts
 
@@ -12,3 +12,5 @@
 5. Logical Coding & Pattern Printing
 
 6. LeetCode Solutions
+
+7. SOLID Principles
