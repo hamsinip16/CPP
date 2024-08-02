@@ -1,102 +1,117 @@
-  # Data-Structures
+![image](https://github.com/user-attachments/assets/fff15c0a-5643-47e4-87f9-99e69f6fc86a)  # Data-Structures
 A data structure is a storage that is used to store and organize data. 
 It is a way of arranging data on a computer so that it can be accessed and updated efficiently.
 ----------------------------------------
 __Linear Data Structures -__
 
-Static [Arrays]
+Static - Arrays
 
-Dynamic [Vector, Queue, Stack, Linked List]
-
+Dynamic - Vector, Queue, Stack, Linked List
 
 __Non-Linear Data Structures -__
 
-Tree [Binary, Binary Search, AVL, B]
+Tree - Binary, Binary Search, AVL, B
 
-Graph [Directed, Undirected, Weighted, Cyclic, Acyclic]
-
-
-# 1. Array [fixed memory size]
+Graph - Directed, Undirected, Weighted, Cyclic, Acyclic
 
 
-# 2. Vector
+# Array [fixed memory size]
 
-   
-# 3. Queue [FIFO]
+
+# Vector
 
    
-# 4. Stack [LIFO]
+# Queue [FIFO]
 
    
-# 5. Linked List [to implement stacks, queues, graphs] 
+# Stack [LIFO]
+
+   
+# Linked List [to implement stacks, queues, graphs] 
 Sequential data structure, data elements are linked to one another and can grown and shrink during run time.
 
 __Advantages:__ efficiently utilizes memory, insertion & deletion is easy at any position
 
 __Disadvantages:__ accessing elements is time consuming, more memory is required for big lists
----------------------------------------
+
 1. Singly Linked List
+   ---------------------
 
 2. Doubly Linked List
+   ---------------------
 
 3. Circular Linked List
+   ---------------------
 
 4. Doubly Circular Linked List
+   ---------------------
 
 
 
-# 6. Tree
+# Tree
 Tree is a hierarchy consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”).
 
 1. Binary Tree
+   ---------------------
 
 2. Binary Search Tree
+   ----------
 
 3. AVL Tree
-
+   --------
+   
 4. B Tree
+   -----
 
 
-
-# 7. Graph
+# Graph
 Graph is a data structure that is a combination of nodes and edges. Nodes/Vertex stores and entities while edges are connections between two nodes.
 
 1. Directed Graph - When all edges point from one node to another node.
+   --
 
 2. Undirected Graph - When there is a simple line between two nodes as an edge.
+   --
 
 3. Weighted Graph - A graph in which every edge has a weight (a value of the connection between two nodes connected by that edge)
+   --
 
-4. Cyclic Graph - In directed Graphs, if there is a possibility of creating a path such that while traveling you end up on an already traveled node.
+4. Cyclic Graph - In directed Graphs, if there is a possibility of creating a path such that while traveling you end up on an already traveled node
+   -
 
 5. Acyclic Graph
+    -
 
-__Graph Traversals__
+Graph Traversals
+--
 
-1. BFS (Breadth First Search)
+__1. BFS (Breadth First Search)__
        Breadth First search is a search algorithm used in tree data structures to search a node with a specific property. The algorithm starts with a root node and as moving deeper it records the data of the nodes, unlike the DFS algorithm which travels to the deepest node and then records the data of the nodes.
 
-2. DFS (Depth First Search) - 
+__2. DFS (Depth First Search)__
       Depth First Search is a searching or traversing algorithm used to traverse a tree or a graph. The algorithm starts with a root node given to it and prints/traverses/checks the elements by moving more profoundly in the tree/graph.
 
 
 
 # OPERATIONS PERFORMED ON DATA STRUCTURES
- __SORTING__
+ SORTING
+ --
 
- 1. Bubble Sort
+ __1. Bubble Sort__
  
- 2. Selection Sort
+ __2. Selection Sort__
  
- 3. Insertion Sort
+ __3. Insertion Sort__
  
- 4. Quick Sort
+ __4. Quick Sort__
 
-__SEARCHING__
 
-1. Binary Search
+SEARCHING
+--
 
-2. Linear Search
+__1. Binary Search__
+
+__2. Linear Search__
 
 
 # Links:
