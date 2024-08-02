@@ -5,7 +5,7 @@
 
 2. Data Structures
 
-3. Threads
+3. MultiThreading
    
 4. Design Patterns
 
