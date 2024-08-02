@@ -94,7 +94,6 @@ To handle communication between objects.
 11.Visitor
 -
 
->>Best Design Patterns to use : __Strategy pattern, Composite pattern__
-
+>>Best Design Patterns to use : __Strategy pattern, Composite pattern__ 
 >>Both provide means to achieve flexibility and modularity in software design, demonstrating the power of using well-defined design patterns in software development.
 
