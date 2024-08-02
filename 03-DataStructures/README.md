@@ -67,24 +67,27 @@ Tree is a hierarchy consisting of a collection of nodes such that each node of t
 # Graph
 Graph is a data structure that is a combination of nodes and edges. Nodes/Vertex stores and entities while edges are connections between two nodes.
 
-1. Directed Graph - When all edges point from one node to another node.
+1. Directed Graph 
    --
+When all edges point from one node to another node.
 
-2. Undirected Graph - When there is a simple line between two nodes as an edge.
+2. Undirected Graph
    --
+When there is a simple line between two nodes as an edge.
 
-3. Weighted Graph - A graph in which every edge has a weight (a value of the connection between two nodes connected by that edge)
+3. Weighted Graph
    --
+   A graph in which every edge has a weight (a value of the connection between two nodes connected by that edge)
 
-4. Cyclic Graph - In directed Graphs, if there is a possibility of creating a path such that while traveling you end up on an already traveled node
+4. Cyclic Graph
    -
+   In directed Graphs, if there is a possibility of creating a path such that while traveling you end up on an already traveled node
 
 5. Acyclic Graph
     -
 
 Graph Traversals
 --
-
 __1. BFS (Breadth First Search)__
        Breadth First search is a search algorithm used in tree data structures to search a node with a specific property. The algorithm starts with a root node and as moving deeper it records the data of the nodes, unlike the DFS algorithm which travels to the deepest node and then records the data of the nodes.
 
@@ -96,7 +99,6 @@ __2. DFS (Depth First Search)__
 # OPERATIONS PERFORMED ON DATA STRUCTURES
  SORTING
  --
-
  __1. Bubble Sort__
  
  __2. Selection Sort__
@@ -108,7 +110,6 @@ __2. DFS (Depth First Search)__
 
 SEARCHING
 --
-
 __1. Binary Search__
 
 __2. Linear Search__
