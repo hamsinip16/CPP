@@ -30,7 +30,7 @@ To Simplify object creation.
    -
 
 5.Singleton
-   =
+   -
 
 
 # Structural Patterns
