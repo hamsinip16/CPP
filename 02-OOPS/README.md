@@ -1,7 +1,5 @@
 # C++ Object Oriented Programming
 
-coding logics to cover all concepts of C++
-
 # CLASS & OBJECTS
 __OBJECT__ is a smallest entity that has characteristics and behavior, and these objects hold variables of a class in accordance with the access specifiers. ​
 
