@@ -1,6 +1,6 @@
 # C++ Object Oriented Programming
 
-GLOBAL VARIABLES
+Global Variables
 --
 __global scope__
 
@@ -10,7 +10,7 @@ Memory is allocated when the program starts and deallocates only when the progra
 Declaring many global variables causes memory issues.
 
 
-STATIC VARIABLES
+Static Variables
 --
 __file scope__
 
@@ -22,7 +22,7 @@ They are shared among all the objects of the class in which they are declared.
 __static__ keyword is used to declare.
 
 
-CONST VARIABLES
+Const Variables
 --
 __const__ keyword is used to declare.
 
