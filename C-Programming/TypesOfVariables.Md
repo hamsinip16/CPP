@@ -8,7 +8,6 @@ They can be accessed or modified by all functions in the program.
 Memory is allocated when the program starts and deallocates only when the program ends.
 Declaring many global variables causes memory issues.
 
-
 Static Variables
 --
 __file scope__
@@ -19,7 +18,6 @@ They can only be accessed or modified within the function.
 Memory allocated remains till the end of the program.
 They are shared among all the objects of the class in which they are declared.
 __static__ keyword is used to declare.
-
 
 Const Variables
 --
