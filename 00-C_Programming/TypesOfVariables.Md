@@ -1,5 +1,5 @@
 # Types of Variables
-Global Variables
+Global Variables 
 --
 Variables which are declared outside any class or function is called global variables.
 They can be accessed or modified by all functions in the program.
